@@ -1,0 +1,9 @@
+streamlit
+xlrd
+pandas
+numpy
+seaborn
+matplotlib
+colorama
+openpyxl
+Pillow
